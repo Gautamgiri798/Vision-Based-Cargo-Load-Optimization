@@ -25,21 +25,29 @@ python App.py
 
 View packing results and 3D visualizations
 
-📂 Dataset Preparation
-Uses the Amazon Bin Image Dataset:
+##📂 Dataset Preparation
+- Uses the Amazon Bin Image Dataset:
 
-Place images in /input_images folder
+- Place images in /input_images folder
 
-Supported formats: JPG, JPEG, PNG
+- Supported formats: JPG, JPEG, PNG
 
-🧠 Core Algorithms
+##🧠 Core Algorithms
 Component	Technique
-Image Processing	Adaptive Thresholding + Contour Detection
-Depth Estimation	Solidity-based Heuristic
-Packing Algorithm	Hybrid Spatial Grid + Fast-Track Placement
-Optimization	Dynamic Container Resizing
-📊 Performance Metrics
-Metric	Value
-Image Processing Speed	5000 images in <10 mins
-Container Utilization	75-85%
-Collision Checks	98.1% reduction
+- Image Processing	Adaptive Thresholding + Contour Detection
+
+- Depth Estimation	Solidity-based Heuristic
+
+- Packing Algorithm	Hybrid Spatial Grid + Fast-Track Placement
+
+- Optimization	Dynamic Container Resizing
+
+
+##📊 Performance Metrics
+- Metric	Value
+
+- Image Processing Speed	5000 images in <10 mins
+
+- Container Utilization	75-85%
+
+- Collision Checks	98.1% reduction
