@@ -1,4 +1,3 @@
-# Vision-Based-Cargo-Load-Optimization
 # Vision-Based Cargo Load Optimization System
 
 ![System Overview](![Screenshot 2025-05-01 152712](https://github.com/user-attachments/assets/b61ba9c0-038e-41b4-81d7-b8cd56130971)
